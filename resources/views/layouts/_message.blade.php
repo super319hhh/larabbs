@@ -18,3 +18,4 @@
         {{ Session::get('danger') }}
     </div>
 @endif
+
